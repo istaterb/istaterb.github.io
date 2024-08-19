@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://istaterb.github.io/sitemap.html.gz
+Sitemap: https://istaterb.github.io/app/sitemap.html.gz
+Sitemap: https://istaterb.github.io/assets/sitemap.html.gz
+Sitemap: https://istaterb.github.io/css/sitemap.html.gz
+Sitemap: https://istaterb.github.io/includes/sitemap.html.gz
+Sitemap: https://istaterb.github.io/item/sitemap.html.gz
+Sitemap: https://istaterb.github.io/src/sitemap.html.gz
